@@ -1,0 +1,2 @@
+twurl authorize --consumer-key WPWExwB5yTxE7ZmzyW0GkNnts       \
+--consumer-secret F7y0Ceq5kfQW16sc7g6ravNEPKYAr88vuEg1HvqYZZzxlcoE3S
