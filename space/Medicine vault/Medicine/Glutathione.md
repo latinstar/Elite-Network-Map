@@ -1,0 +1,2 @@
+- Tripeptide amino acid
+- Made from glycine, cysteine and and glutamic acid. Created by the [[Liver]]/

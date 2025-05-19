@@ -1,0 +1,3 @@
+- Oxidation from free radicals can cause hydrogen atoms to be stolen from the lipid membranes and form a lipid peroxide radical, stealing more hydrogen atoms and damaging cells. [[Antioxidants]] can donate electrons to the free radical, neutralizing it.
+- [[Polyunsaturated fatty acids]] contain 2 or more double bonds, so hydrogen is less tightly bound to the carbon allowing it to be more easily oxidized (stolen). 
+![[Attatchments/Pasted image 20240324101420.png]]

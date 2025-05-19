@@ -1,0 +1,3 @@
+Monoamine neurotransmitters are neurotransmitters and neuromodulators that contain one amino group connected to an aromatic ring by a two-carbon chain. Examples are dopamine, norepinephrine and serotonin.
+
+All monoamines are derived from aromatic [amino acids](https://en.wikipedia.org/wiki/Amino_acid "Amino acid") like [phenylalanine](https://en.wikipedia.org/wiki/Phenylalanine "Phenylalanine"), [tyrosine](https://en.wikipedia.org/wiki/Tyrosine "Tyrosine"), and [tryptophan](https://en.wikipedia.org/wiki/Tryptophan "Tryptophan") by the action of [aromatic amino acid decarboxylase](https://en.wikipedia.org/wiki/Aromatic_amino_acid_decarboxylase "Aromatic amino acid decarboxylase") [enzymes](https://en.wikipedia.org/wiki/Enzyme "Enzyme").

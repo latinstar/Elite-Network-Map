@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "ad1637c56daf93b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c271fcf2ec6b18f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7fffba719eaefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine/Nucleobases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bf58cdef4dd18c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73d8d4416dbd21cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "384f175f954b1503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d857d5a604740f15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f859b718790f668",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#health",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1189f70dbfe83d67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3376f58b35a6a3fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e02d520f91e7bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58e3af0a8c074f86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medicine/Nucleobases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fdb22bbd3e9a53db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medicine/Nucleobases.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e34adbfefa776f2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "7f2364c169fbd559",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Medicine/Nucleobases.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d857d5a604740f15",
+  "lastOpenFiles": [
+    "plugins",
+    "untitled folder",
+    "Medicine/Tyrosinase.md",
+    "Medicine/Norepinephrine.md",
+    "Medicine/Tyrosine.md",
+    "Medicine/Glutathione.md",
+    "Medicine/Antioxidant.md",
+    "Medicine/Insonmia.md",
+    "Medicine/Proteins.md",
+    "Medicine/Attatchments/Screenshot 2023-11-09 at 1.59.44 PM.png",
+    "Medicine/Attatchments/Pasted image 20240324101420.png",
+    "Medicine/Attatchments/Pasted image 20240324101400.png",
+    "Medicine/Attatchments/Pasted image 20230731175926.png",
+    "Medicine/Attatchments/Pasted image 20230731175134.png",
+    "Medicine/Programming.md",
+    "Medicine/Hepatic.md",
+    "Medicine/Dopamine.md",
+    "Medicine/Electrolytes.md",
+    "Medicine/Magnesium.md",
+    "Medicine/Cerebellum.md",
+    "Medicine/Biology notes.md",
+    "Medicine/Medicine notes.md",
+    "potassium.md",
+    "bicarbonate.md",
+    "Medicine/Aromatase.md",
+    "Medicine/Liver.md",
+    "Medicine/Vitamins & minerals.md",
+    "Medicine/Semen.md",
+    "Medicine/Protein structure.md",
+    "Medicine/Peaty supplement list.md",
+    "Medicine/Nucleobases.md",
+    "Medicine/Attatchments/Pasted image 20240326213734.png",
+    "Medicine/Attatchments/IMG_0163.jpeg",
+    "Medicine/Attatchments",
+    "Medicine/Oxidation.md",
+    "Medicine",
+    "Medicine alias"
+  ]
+}
