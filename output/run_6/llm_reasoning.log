@@ -1,0 +1,438 @@
+[2025-11-29 17:30:23] === Entity Detection for 'JD Vance' (Batch 1) ===
+Identified 36 entities: Robert Mercer, Ajay Royan, Sidley Austin, Sally Satel, Tim Ryan...
+================================================================================
+
+[2025-11-29 17:30:36] === Next Link Selection for 'JD Vance' ===
+Result: https://en.wikipedia.org/wiki/Peter_Thiel
+================================================================================
+
+[2025-11-29 17:30:50] === Entity Detection for 'Peter Thiel' (Batch 1) ===
+Identified 26 entities: Founders Fund, Elon Musk, Thiel Foundation, Thiel Fellowship, Max Levchin...
+================================================================================
+
+[2025-11-29 17:30:57] === Next Link Selection for 'Peter Thiel' ===
+Result: https://en.wikipedia.org/wiki/Donald_Trump
+================================================================================
+
+[2025-11-29 17:31:23] === Entity Detection for 'Donald Trump' (Batch 1) ===
+Identified 22 entities: Commodore Hotel, Trump Shuttle, Trump International Hotel and Tower, Democratic Party, Trump Hotels & Casino Resorts...
+================================================================================
+
+[2025-11-29 17:31:29] === Next Link Selection for 'Donald Trump' ===
+Result: https://en.wikipedia.org/wiki/Joe_Biden
+================================================================================
+
+[2025-11-29 17:31:41] === Entity Detection for 'Joe Biden' (Batch 1) ===
+Identified 15 entities: Barack Obama, Foreign Relations Committee, Democratic Party, Kamala Harris, Supreme Court of the United States...
+================================================================================
+
+[2025-11-29 17:31:51] === Next Link Selection for 'Joe Biden' ===
+Result: https://en.wikipedia.org/wiki/Kamala_Harris
+================================================================================
+
+[2025-11-29 17:32:02] === Entity Detection for 'Kamala Harris' (Batch 1) ===
+Identified 28 entities: Barack Obama, Terence Hallinan, Corinthian Colleges, Democratic Party, Louise Renne...
+================================================================================
+
+[2025-11-29 17:32:15] === Next Link Selection for 'Kamala Harris' ===
+Result: https://en.wikipedia.org/wiki/Barack_Obama
+================================================================================
+
+[2025-11-29 17:32:24] === Entity Detection for 'Barack Obama' (Batch 1) ===
+Identified 14 entities: Elena Kagan, Democratic Party, Joe Biden, Muammar Gaddafi, Hillary Clinton...
+================================================================================
+
+[2025-11-29 17:32:33] === Next Link Selection for 'Barack Obama' ===
+Result: https://en.wikipedia.org/wiki/Hillary_Clinton
+================================================================================
+
+[2025-11-29 17:32:45] === Entity Detection for 'Hillary Clinton' (Batch 1) ===
+Identified 10 entities: Barack Obama, Senate Democratic Steering and Outreach Committee, Democratic Party, Arkansas Advocates for Children and Families, Republican Party...
+================================================================================
+
+[2025-11-29 17:32:55] === Next Link Selection for 'Hillary Clinton' ===
+Result: https://en.wikipedia.org/wiki/Onward_Together
+================================================================================
+
+[2025-11-29 17:33:04] === Entity Detection for 'Onward Together' (Batch 1) ===
+Identified 9 entities: Hillary Clinton presidential campaign, 2008, Run for Something, Howard Dean, Swing Left, Hillary Clinton...
+================================================================================
+
+[2025-11-29 17:33:13] === Next Link Selection for 'Onward Together' ===
+Result: https://en.wikipedia.org/wiki/Swing_Left
+================================================================================
+
+[2025-11-29 17:33:23] === Entity Detection for 'Swing Left' (Batch 1) ===
+Identified 15 entities: Anna Wintour, Democratic, Crooked Media, Chris Sacca, Republican Party...
+================================================================================
+
+[2025-11-29 17:33:42] === Next Link Selection for 'Swing Left' ===
+Result: https://en.wikipedia.org/wiki/ActBlue
+================================================================================
+
+[2025-11-29 17:33:48] === Entity Detection for 'ActBlue' (Batch 1) ===
+Identified 12 entities: Alexandria Ocasio-Cortez, Jason Miyares, Democratic Party, Ruth Bader Ginsburg, Kamala Harris...
+================================================================================
+
+[2025-11-29 17:33:57] === Next Link Selection for 'ActBlue' ===
+Result: https://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+================================================================================
+
+[2025-11-29 17:34:10] === Entity Detection for 'Democratic Party (United States)' (Batch 1) ===
+Identified 6 entities: Barack Obama, Westmoreland Republican, Republican Party, Bill Clinton, Third Way...
+================================================================================
+
+[2025-11-29 17:34:21] === Next Link Selection for 'Democratic Party (United States)' ===
+Result: https://en.wikipedia.org/wiki/Republican_Party_(United_States)
+================================================================================
+
+[2025-11-29 17:34:30] === Entity Detection for 'Republican Party (United States)' (Batch 1) ===
+Identified 14 entities: Barack Obama, Al Gore, Democratic Party, Kamala Harris, Eric Cantor...
+================================================================================
+
+[2025-11-29 17:34:40] === Next Link Selection for 'Republican Party (United States)' ===
+Result: https://en.wikipedia.org/wiki/Fox_News
+================================================================================
+
+[2025-11-29 17:34:51] === Entity Detection for 'Fox News' (Batch 1) ===
+Identified 24 entities: Rupert Murdoch, Fox Filmed Entertainment, Ted Turner, Turner Broadcasting System, Roger Ailes...
+================================================================================
+
+[2025-11-29 17:35:00] === Next Link Selection for 'Fox News' ===
+Result: https://en.wikipedia.org/wiki/Rupert_Murdoch
+================================================================================
+
+[2025-11-29 17:35:16] === Entity Detection for 'Rupert Murdoch' (Batch 1) ===
+Identified 23 entities: Labour Party (UK), The Economist, News Limited, News Corporation, News International...
+================================================================================
+
+[2025-11-29 17:35:26] === Next Link Selection for 'Rupert Murdoch' ===
+Result: https://en.wikipedia.org/wiki/News_Corp
+================================================================================
+
+[2025-11-29 17:35:35] === Entity Detection for 'News Corp' (Batch 1) ===
+Identified 37 entities: Rupert Murdoch, Elisabeth Murdoch, GateHouse Media, Lachlan Murdoch, Amplify...
+================================================================================
+
+[2025-11-29 17:35:53] === Next Link Selection for 'News Corp' ===
+Result: https://en.wikipedia.org/wiki/Fox_Corporation
+================================================================================
+
+[2025-11-29 17:36:04] === Entity Detection for 'Fox Corporation' (Batch 1) ===
+Identified 27 entities: Rupert Murdoch, Elisabeth Murdoch, Lachlan Murdoch, FCC, Gail Berman...
+================================================================================
+
+[2025-11-29 17:36:18] === Next Link Selection for 'Fox Corporation' ===
+Result: https://en.wikipedia.org/wiki/Paul_Ryan
+================================================================================
+
+[2025-11-29 17:36:32] === Entity Detection for 'Paul Ryan' (Batch 1) ===
+Identified 24 entities: Barack Obama, House Budget Committee, Mark Neumann, Democratic Party, Paul Nehlen...
+================================================================================
+
+[2025-11-29 17:36:50] === Next Link Selection for 'Paul Ryan' ===
+Result: https://en.wikipedia.org/wiki/Mitt_Romney
+================================================================================
+
+[2025-11-29 17:37:14] === Entity Detection for 'Mitt Romney' (Batch 1) ===
+Identified 27 entities: Barack Obama, Sealy Corporation, Stanford University, Bain Capital, Sports Authority...
+================================================================================
+
+[2025-11-29 17:37:24] === Next Link Selection for 'Mitt Romney' ===
+Result: https://en.wikipedia.org/wiki/United_States_Senate
+================================================================================
+
+[2025-11-29 17:37:33] === Entity Detection for 'United States Senate' (Batch 1) ===
+Identified 19 entities: Capitol Police, Democratic Party, George Packer, John Yoo, Republican Party...
+================================================================================
+
+[2025-11-29 17:37:46] === Next Link Selection for 'United States Senate' ===
+Result: https://en.wikipedia.org/wiki/Chuck_Schumer
+================================================================================
+
+[2025-11-29 17:38:01] === Entity Detection for 'Chuck Schumer' (Batch 1) ===
+Identified 18 entities: Howard Mills, Democratic Senatorial Campaign Committee, Elizabeth Holtzman, Senate Democratic Caucus, Democratic Party...
+================================================================================
+
+[2025-11-29 17:38:15] === Next Link Selection for 'Chuck Schumer' ===
+Result: https://en.wikipedia.org/wiki/Dick_Durbin
+================================================================================
+
+[2025-11-29 17:38:27] === Entity Detection for 'Dick Durbin' (Batch 1) ===
+Identified 28 entities: Justice Department, Al Gore, National Institutes of Health, Democratic Party, National Rifle Association...
+================================================================================
+
+[2025-11-29 17:38:38] === Next Link Selection for 'Dick Durbin' ===
+Result: https://en.wikipedia.org/wiki/Senate_Judiciary_Committee
+================================================================================
+
+[2025-11-29 17:38:45] === Entity Detection for 'United States Senate Committee on the Judiciary' (Batch 1) ===
+Identified 12 entities: Court of International Trade, U.S. district courts, Office of National Drug Control Policy, FBI, Al Franken...
+================================================================================
+
+[2025-11-29 17:40:41] === Full Text Entity Extraction for 'Mithril Capital' ===
+Identified 25 entities: Peter Thiel, Ajay Royan, Mithril Capital Management, Founders Fund, Palantir...
+================================================================================
+
+[2025-11-29 17:40:53] === Next Link Selection for 'Mithril Capital' ===
+Response: ```json
+{
+  "reason": "Palantir Technologies is the most relevant link because it was co-founded by ...
+================================================================================
+
+[2025-11-29 17:41:16] === Full Text Entity Extraction for 'Palantir Technologies' ===
+Identified 69 entities: Palantir Technologies Inc., Peter Thiel, Stephen Cohen, Joe Lonsdale, Alex Karp...
+================================================================================
+
+[2025-11-29 17:41:32] === Next Link Selection for 'Palantir Technologies' ===
+Response: ```json
+{
+  "reason": "In-Q-Tel is the single most relevant link to crawl next because it is a non-p...
+================================================================================
+
+[2025-11-29 17:41:48] === Full Text Entity Extraction for 'In-Q-Tel' ===
+Identified 38 entities: In-Q-Tel (IQT), Peleus, In-Q-It, Central Intelligence Agency, intelligence agencies...
+================================================================================
+
+[2025-11-29 17:42:04] === Next Link Selection for 'In-Q-Tel' ===
+Response: ```json
+{
+  "reason": "The Central Intelligence Agency is the single most relevant link because In-Q...
+================================================================================
+
+[2025-11-29 17:42:29] === Full Text Entity Extraction for 'Central Intelligence Agency' ===
+Identified 74 entities: Central Intelligence Agency (CIA), George Bush Center for Intelligence, United States Intelligence Community (IC), Director of National Intelligence (DNI), Cabinet...
+================================================================================
+
+[2025-11-29 17:42:46] === Next Link Selection for 'Central Intelligence Agency' ===
+Response: ```json
+{
+  "reason": "MI6 is the most relevant next link because it represents another major, conte...
+================================================================================
+
+[2025-11-29 17:43:10] === Full Text Entity Extraction for 'MI6' ===
+Identified 33 entities: Blaise Metreweli, Comptroller and Auditor General, Secret Intelligence Service, SIS, MI6 (Military Intelligence, Section 6)...
+================================================================================
+
+[2025-11-29 17:43:25] === Next Link Selection for 'MI6' ===
+Response: ```json
+{
+  "reason": "The 'Chief of the Secret Intelligence Service' is the single most relevant li...
+================================================================================
+
+[2025-11-29 17:43:44] === Full Text Entity Extraction for 'Chief of the Secret Intelligence Service' ===
+Identified 23 entities: Captain Sir Mansfield Smith-Cumming, Alexander Bethell, Hugh Sinclair, Stewart Menzies, Gerard Muirhead-Gould...
+================================================================================
+
+[2025-11-29 17:43:54] === Next Link Selection for 'Chief of the Secret Intelligence Service' ===
+Response: ```json
+{
+  "reason": "The 'Secret Intelligence Service' is a direct and contemporary intelligence a...
+================================================================================
+
+[2025-11-29 17:44:21] === Full Text Entity Extraction for 'MI6' ===
+Identified 35 entities: Secret Intelligence Service (SIS), MI6, Five Eyes, Investigatory Powers Tribunal, Intelligence and Security Committee of Parliament...
+================================================================================
+
+[2025-11-29 17:44:30] === Next Link Selection for 'MI6' ===
+Response: ```json
+{
+  "reason": "The 'Five Eyes' link is the most relevant next step because it represents a c...
+================================================================================
+
+[2025-11-29 17:44:47] === Full Text Entity Extraction for 'Five Eyes' ===
+Identified 36 entities: Five Eyes, Australia, Canada, New Zealand, United Kingdom...
+================================================================================
+
+[2025-11-29 17:44:58] === Next Link Selection for 'Five Eyes' ===
+Response: ```json
+{
+  "reason": "The CIA is explicitly listed as a high-priority entity to crawl, directly mat...
+================================================================================
+
+[2025-11-29 17:45:23] === Full Text Entity Extraction for 'Central Intelligence Agency' ===
+Identified 72 entities: Central Intelligence Agency (CIA), federal government of the United States, United States Intelligence Community (IC), US Military, Federal Bureau of Investigation (FBI)...
+================================================================================
+
+[2025-11-29 17:45:37] === Next Link Selection for 'Central Intelligence Agency' ===
+Response: ```json
+{
+  "reason": "The Directorate of Operations (CIA) is the primary clandestine service and op...
+================================================================================
+
+[2025-11-29 17:45:50] === Full Text Entity Extraction for 'Directorate of Operations (CIA)' ===
+Identified 50 entities: Directorate of Operations (DO), Clandestine Service, US Central Intelligence Agency, Directorate of Plans, National Clandestine Service (NCS)...
+================================================================================
+
+[2025-11-29 17:46:05] === Next Link Selection for 'Directorate of Operations (CIA)' ===
+Response: The most relevant link to crawl next is "United States Intelligence Community".
+
+**Reasoning:** The ...
+================================================================================
+
+[2025-11-29 17:46:17] === Full Text Entity Extraction for 'United States Intelligence Community' ===
+Identified 27 entities: United States Intelligence Community, Office of the Director of National Intelligence, director of national intelligence, President Ronald Reagan, The Washington Post...
+================================================================================
+
+[2025-11-29 17:46:32] === Next Link Selection for 'United States Intelligence Community' ===
+Response: ```json
+{
+  "reason": "The 'Director of Central Intelligence' link is selected because the DCI was h...
+================================================================================
+
+[2025-11-29 17:46:49] === Full Text Entity Extraction for 'Director of Central Intelligence' ===
+Identified 71 entities: Central Intelligence Agency (CIA), director of central intelligence (DCI), United States National Security Council, US intelligence agencies, Intelligence Community...
+================================================================================
+
+[2025-11-29 17:47:14] === Next Link Selection for 'Director of Central Intelligence' ===
+Response: ```json
+{
+  "reason": "Henry Kissinger is the most relevant next link because he was a central figur...
+================================================================================
+
+[2025-11-29 17:47:27] === Full Text Entity Extraction for 'Henry Kissinger' ===
+Identified 12 entities: U.S. Army, 84th Infantry Division, Fritz Kraemer, Camp Ritchie, Counter Intelligence Corps (CIC)...
+================================================================================
+
+[2025-11-29 17:47:42] === Next Link Selection for 'Henry Kissinger' ===
+Response: ```json
+{
+  "reason": "The FBI is selected as it directly falls under the 'Intelligence Agencies' pr...
+================================================================================
+
+[2025-11-29 17:48:00] === Full Text Entity Extraction for 'Federal Bureau of Investigation' ===
+Identified 26 entities: Federal Bureau of Investigation (FBI), United States Department of Justice, U.S. Intelligence Community, attorney general, director of national intelligence...
+================================================================================
+
+[2025-11-29 17:48:10] === Next Link Selection for 'Federal Bureau of Investigation' ===
+Response: ```json
+{
+  "reason": "The 'Director of National Intelligence' is the single most relevant link to c...
+================================================================================
+
+[2025-11-29 17:48:29] === Full Text Entity Extraction for 'Director of National Intelligence' ===
+Identified 54 entities: director of national intelligence (DNI), United States Intelligence Community (IC), Central Intelligence Agency (CIA), Defense Intelligence Agency (DIA), National Security Agency (NSA)...
+================================================================================
+
+[2025-11-29 17:48:36] === Next Link Selection for 'Director of National Intelligence' ===
+Response: ```json
+{
+  "reason": "Lora Shiao is the current Deputy Director of National Intelligence for Intell...
+================================================================================
+
+[2025-11-29 17:48:42] === Full Text Entity Extraction for 'Lora Shiao' ===
+Identified 5 entities: Lora Shiao, Office of the Director of National Intelligence, Federal Bureau of Investigation, National Counterterrorism Center, Christopher C. Miller...
+================================================================================
+
+[2025-11-29 17:48:50] === Next Link Selection for 'Lora Shiao' ===
+Response: ```json
+{
+  "reason": "The National Counterterrorism Center is the organization Lora Shiao currently...
+================================================================================
+
+[2025-11-29 17:49:02] === Full Text Entity Extraction for 'National Counterterrorism Center' ===
+Identified 20 entities: National Counterterrorism Center (NCTC), United States government, Office of the Director of National Intelligence, CIA, FBI...
+================================================================================
+
+[2025-11-29 17:49:14] === Next Link Selection for 'National Counterterrorism Center' ===
+Response: ```json
+{
+  "reason": "The United States Director of National Intelligence (DNI) is the most relevan...
+================================================================================
+
+[2025-11-29 17:49:42] === Full Text Entity Extraction for 'Director of National Intelligence' ===
+Identified 49 entities: George W. Bush, Barack Obama, Donald Trump, Tulsi Gabbard, Dianne Feinstein...
+================================================================================
+
+[2025-11-29 17:49:53] === Next Link Selection for 'Director of National Intelligence' ===
+Response: ```json
+{
+  "reason": "Robert M. Gates is the most relevant link because he served as the Director o...
+================================================================================
+
+[2025-11-29 17:50:28] === Full Text Entity Extraction for 'Robert Gates' ===
+Identified 14 entities: Robert Michael Gates, Central Intelligence Agency (CIA), National Security Council, United States Air Force, Strategic Air Command...
+================================================================================
+
+[2025-11-29 17:50:42] === Next Link Selection for 'Robert Gates' ===
+Response: The single most relevant link to crawl next is **John Negroponte**.
+
+```json
+{
+  "reason": "John Neg...
+================================================================================
+
+[2025-11-29 17:50:52] === Full Text Entity Extraction for 'John Negroponte' ===
+Identified 18 entities: John Dimitri Negroponte, Porter Goss, Director of Central Intelligence, Director of the Central Intelligence Agency, Central Intelligence Agency...
+================================================================================
+
+[2025-11-29 17:51:00] === Next Link Selection for 'John Negroponte' ===
+Response: ```json
+{
+  "reason": "Porter Goss is the most relevant choice as he is a specific person who served...
+================================================================================
+
+[2025-11-29 17:51:18] === Full Text Entity Extraction for 'Porter Goss' ===
+Identified 52 entities: Porter Johnston Goss, Central Intelligence Agency, U.S. House of Representatives, Director of National Intelligence, President George W. Bush...
+================================================================================
+
+[2025-11-29 17:51:31] === Next Link Selection for 'Porter Goss' ===
+Response: ```json
+{
+  "reason": "Michael Hayden (general) is the single most relevant link to crawl next becau...
+================================================================================
+
+[2025-11-29 17:52:11] === Full Text Entity Extraction for 'Michael Hayden (general)' ===
+Identified 67 entities: AIA, Air Force Intelligence, Surveillance and Reconnaissance Agency, Air Force Reserve Officer Training Corps, Air University, Allen G. Peck...
+================================================================================
+
+[2025-11-29 17:52:25] === Next Link Selection for 'Michael Hayden (general)' ===
+Response: ```json
+{
+  "reason": "The page 'Director of the Central Intelligence Agency' is the single most rel...
+================================================================================
+
+[2025-11-29 17:52:38] === Full Text Entity Extraction for 'Director of the Central Intelligence Agency' ===
+Identified 12 entities: Central Intelligence Agency, United States Intelligence Community, United States Armed Forces, United States Senate, National Security Council...
+================================================================================
+
+[2025-11-29 17:52:47] === Next Link Selection for 'Director of the Central Intelligence Agency' ===
+Response: ```json
+{
+  "reason": "The 'Deputy Director of the Central Intelligence Agency' is the most relevant...
+================================================================================
+
+[2025-11-29 17:52:59] === Full Text Entity Extraction for 'Deputy Director of the Central Intelligence Agency' ===
+Identified 11 entities: Central Intelligence Agency, president of the United States, United States Senate, Porter Goss, U.S. Congress...
+================================================================================
+
+[2025-11-29 17:53:06] === Next Link Selection for 'Deputy Director of the Central Intelligence Agency' ===
+Response: ```json
+{
+  "reason": "The 'Principal Deputy Director of National Intelligence' is the single most r...
+================================================================================
+
+[2025-11-29 17:53:32] === Full Text Entity Extraction for 'Director of National Intelligence' ===
+Identified 54 entities: United States government, United States Intelligence Community, National Intelligence Program, Central Intelligence Agency, CIA...
+================================================================================
+
+[2025-11-29 17:53:44] === Next Link Selection for 'Director of National Intelligence' ===
+Response: The most relevant link to crawl next is **United States Intelligence Community#Programs**.
+
+**Reason...
+================================================================================
+
+[2025-11-29 17:53:58] === Full Text Entity Extraction for 'United States Intelligence Community' ===
+Identified 33 entities: Ronald Reagan, LTG Walter Bedell Smith, Mike McConnell, Lee H. Hamilton, Steven Aftergood...
+================================================================================
+
+[2025-11-29 17:54:05] === Next Link Selection for 'United States Intelligence Community' ===
+Response: ```json
+{
+  "reason": "The 'Office of the Director of National Intelligence' is the single most rele...
+================================================================================
+
+[2025-11-29 17:54:25] === Full Text Entity Extraction for 'Director of National Intelligence' ===
+Identified 61 entities: director of national intelligence (DNI), United States government, Intelligence Reform and Terrorism Prevention Act of 2004, United States Intelligence Community (IC), National Intelligence Program (NIP)...
+================================================================================
+

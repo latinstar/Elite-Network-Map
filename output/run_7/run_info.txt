@@ -1,0 +1,64 @@
+Run Name: run_7
+Timestamp: 2025-11-29 17:31:28
+API Key Present: True
+Config: {
+    "_comment_usage": "This file controls the behavior of the Wikipedia Scraper. Standard JSON does not support comments, so these fields are used for documentation.",
+    "parameters": {
+        "_comment_only_include_important": "Set to 1 to filter links based on importance/relevance score, 0 to include all valid entities.",
+        "only_include_important": 1,
+        "_comment_model_name": "The Gemini model version to use (e.g., gemini-2.5-flash).",
+        "model_name": "gemini-2.5-flash",
+        "_comment_instructions": "Global instructions for the LLM to guide its decision making.",
+        "instructions": "Focus on building a graph of connections between political figures and organizations. Prioritize controversy, funding, and influence networks.",
+        "_comment_max_entities_to_check": "Speed optimization: Only send the top N heuristically scored links to the LLM. Set to 0 for no limit (slow).",
+        "max_entities_to_check": 50,
+        "_comment_verbose_logging": "Set to true to log full prompts and responses. Set to false for concise decision logs.",
+        "verbose_logging": false,
+        "_comment_extraction_strategy": "Method to identify entities. 'link_batch' = check links in batches (accurate). 'full_text' = read page text and find entities (faster).",
+        "extraction_strategy": "full_text"
+    },
+    "prompts": {
+        "_comment_entity_detection": "Prompt used to identify People and Organizations.",
+        "entity_detection": [
+            "I will provide a list of links found on a Wikipedia page. ",
+            "Your task is to identify which of these links represent specific PEOPLE ",
+            "(politicians, activists, donors, key figures) or specific ORGANIZATIONS ",
+            "(parties, companies, PACs, groups) that are relevant to contemporary politics (post-2000s). \n",
+            "\n",
+            "Exclude:\n",
+            "- General concepts (e.g., 'Law', 'Government', 'Democracy')\n",
+            "- Historical events pre-20th century\n",
+            "- Geographical locations (unless used as a metonym for a political entity, but prefer specific entities)\n",
+            "- Lists (e.g., 'List of presidents')\n",
+            "- Dates/Years\n",
+            "\n",
+            "Return a JSON object with a single key 'entities' containing a list of the exact link text (or URL suffix) of the valid entities."
+        ],
+        "_comment_entity_extraction_from_text": "Prompt used when extraction_strategy is 'full_text'.",
+        "entity_extraction_from_text": [
+            "Analyze the following text from a Wikipedia page. ",
+            "Identify the most important PEOPLE and ORGANIZATIONS mentioned that are relevant to contemporary politics. \n",
+            "\n",
+            "Return a JSON object with a single key 'entities' containing a list of their names. ",
+            "Use the exact name as it appears in the text if possible."
+        ],
+        "_comment_next_link_selection": "Prompt used to select the next best link to crawl.",
+        "next_link_selection": [
+            "I am crawling Wikipedia to build a network of CONTEMPORARY political entities. ",
+            "I am currently on the page: \"{current_page_title}\".\n",
+            "\n",
+            "Here is a list of potential next pages to visit:\n",
+            "{candidates_str}\n",
+            "\n",
+            "Task: Select the SINGLE most relevant link to crawl next.\n",
+            "Criteria:\n",
+            "1. MUST be a person, organization, or specific political event/concept directly relevant to contemporary politics.\n",
+            "2. Prioritize specific people and organizations over events.\n",
+            "3. Avoid loops (do not select pages already visited).\n",
+            "\n",
+            "Return a JSON object with two keys:\n",
+            "- \"reason\": A short sentence explaining why this entity is the best next step.\n",
+            "- \"url\": The URL of the selected link (or \"NONE\")."
+        ]
+    }
+}

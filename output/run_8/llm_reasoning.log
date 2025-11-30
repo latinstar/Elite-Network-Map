@@ -1,0 +1,10 @@
+[2025-11-29 17:42:51] === Full Text Entity Extraction for 'JD Vance' ===
+Identified 16 entities: United States Marine Corps, Peter Thiel, Mithril Capital, Narya Capital, Eric Schmidt...
+================================================================================
+
+[2025-11-29 17:43:00] === Next Link Selection for 'JD Vance' ===
+Response: ```json
+{
+  "reason": "Peter Thiel is the single most relevant link as he is a prominent tech billio...
+================================================================================
+
