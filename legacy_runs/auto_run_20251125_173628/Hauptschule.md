@@ -1,0 +1,30 @@
+'general school') is a [[Secondary school]] in Germany, starting after four years of [[Elementary school]] ([[Grundschule]]), which offers Lower Secondary Education (Level 2) according to the [[International Standard Classification of Education]].
+Any student who attends a German elementary school can go to a Hauptschule or [[Gesamtschule]], while students who want to attend a [[Realschule]] or [[Gymnasium (Germany)]] need to have good marks in order to do so.
+Hauptschulen (plural of Hauptschule) were first introduced in [[West Germany]] in 1950 and are now a part of secondary education in Germany, the other schools being the [[Gymnasium (school)]] for the university-bound and the [[Realschule]] for the future technicians.
+(However some of the graduates will attend a university later in life, see below.) They largely teach the same subjects as a [[Realschule]] or [[Gymnasium (Germany)]], but at a slower pace.[1] Subjects that are taught at Gymnasien, but not at Hauptschulen, include Latin and Ancient Greek, while "work studies" (Arbeitslehre) is taught at Hauptschulen, but not at Gymnasien.
+Percentage of jobholders holding [[Hauptschulabschluss]], [[Realschulabschluss]] or [[Abitur]] in Germany:[4]
+Thus younger jobholders are less likely to hold a [[Hauptschulabschluss]] than older ones.
+Most Hauptschulen reside in conservative areas (like Bavaria), because conservative parties want to strengthen the Hauptschule, while the [[Social Democratic Party of Germany]] closed Hauptschulen, replacing them with comprehensive schools.
+In some areas where few students attend the Hauptschule and those who do often suffer from learning disabilities, Hauptschule students have come to be increasingly [[Social stigma]] in recent years, the opinion of the general public often being that Hauptschulen only harbor the bottom end of society.
+Stereotypes of [[Dysfunctional family]] backgrounds, absent and/or unemployed parents and [[Domestic violence]] and [[Alcohol abuse]] are often cited when describing what is believed to be the typical social origin of these students.
+Moreover, and based on these problems, in some areas it has become very hard for Hauptschule graduates to find qualified work or begin an [[Apprenticeship]], even in professions which traditionally welcomed them and in some areas have now shifted their focus to better qualified applicants, e.g. mechanics, construction or sales.
+In some areas, an overwhelming majority of each graduating class is therefore forced to accept low-paying unskilled labor or live on [[Welfare (financial aid)]] indefinitely; many choose to stay in school for another year to obtain their diploma, which slightly, but not fundamentally, improves their career prospects.
+In 2006 a debate about violence at German Hauptschulen was sparked after teachers of the infamous [[Rütli School]] wrote a letter to the [[Senate of Berlin]] office demanding the school be closed down.
+In [[Bavaria]] no "problem school" could be found.
+In [[Baden-Württemberg]] only 4.8 percent of Hauptschulen and in [[Rheinland-Pfalz]] 8.7 percent of Hauptschulen must be called "problem schools".
+In contrast, 60 percent of all Hauptschulen in [[Berlin]], 68.8 percent of Hauptschulen in [[Hamburg]] and 95.7 percent of all Hauptschulen that existed in [[Bremen]] must be called "problem schools".[6] (Berlin and Hamburg have abolished the Hauptschule since then.)
+The graduation certificate is the [[Hauptschulabschluss]], which like the assignment to other types of high schools is less valuable than the [[Realschulabschluss]] or university-bound [[Abitur]].
+Furthermore, persons holding a Hauptschulabschluss may go to night school to earn their [[Realschulabschluss]] or [[Abitur]].
+However, in some German states students that do well enough in Hauptschule receive the [[Mittlere Reife]].
+In the [[German Democratic Republic]] most students attended a polytechnical school, and only a select few attended a specialist school.
+Nowadays, all eastern German states offer some kind of "Intermediate School" (which may be called Regelschule, [[Mittelschule]],  or [[Regionale Schule]]).
+All states of eastern Germany also offer [[Gymnasium (Germany)]], while all but [[Saxony]] also offer comprehensive schools.
+In the German state of Saarland, the Hauptschule has been abolished, and Hauptschulen have been merged with [[Realschule]] to form "Erweiterte Realschulen", however those "Erweiterte Realschulen" still do stream by ability after 7th grade.
+The state of Schleswig-Holstein also abolished the Hauptschule and mainstreamed students into the [[Regionalschule]].
+The state of [[Rhineland-Palatinate]] has merged Hauptschulen and [[Realschule]] to form a new type of school called "Realschule plus", which offers general education classes (that resemble classes held at the normal Realschule) as well as remedial classes.
+They were merged with [[Realschule]] and [[Gesamtschule]] to form a new type of comprehensive school called Stadtteilschule in Hamburg and Sekundarschule in Berlin (see: [[Education in Berlin]], [[Education in Hamburg]]).
+In the United States, most schools are [[Comprehensive high school]] and educate students of all ability ranges, as the concept of tracking by test score was largely abandoned there by the 21st century.
+However, some school districts, such as the [[Renton School District]], maintain separate schools for students who do not succeed in the comprehensive school, usually students who get the lowest test score results.
+Although most US students get uniform diplomas, some states are adopting [[High school graduation examination]] with very high standards.
+Although Marc Tucker of the [[NCEE]] designed the [[Certificate of Initial Mastery]] around the German education model, most US states expect all students to meet one high passing standard, and tests are used to ensure success for all rather than sorting between types of high schools.
+High school is mandatory until the age of 17–18 in most states, but those who leave before receiving a diploma are considered to be [[Dropping out]] with a dismal future.

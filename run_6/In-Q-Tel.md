@@ -1,0 +1,17 @@
+It invests in companies to keep the [[Central Intelligence Agency]], and other intelligence agencies, equipped with the latest in information technology in support of [[United States]] intelligence capability.[2] The name "In-Q-Tel" is an intentional reference to Q, the fictional inventor who supplies technology to James Bond.[6]
+Originally named Peleus and known as In-Q-It, In-Q-Tel was "the brainchild" of former Director of Central Intelligence [[George Tenet]].[7] [[Gilman Louie]] was In-Q-Tel's first CEO[2][6] and [[Norm Augustine]], a former CEO of [[Lockheed Martin]], led the board of directors.[8] In-Q-Tel's mission is to identify and invest in companies developing cutting-edge technologies that serve United States national security interests.
+David]], who headed the [[Central Intelligence Agency Directorate of Science & Technology|Central Intelligence Agency's Directorate of Science & Technology]] in the 1990s and promoted the importance of rapidly advancing information technology for the CIA.[6]
+In-Q-Tel now engages with entrepreneurs, growth companies, researchers, and venture capitalists to deliver technologies that provide superior capabilities for the [[Central Intelligence Agency|CIA]], [[Defense Intelligence Agency|DIA]], [[National Geospatial-Intelligence Agency|NGA]], and the wider [[United States Intelligence Community|intelligence community]].[10] In-Q-Tel concentrates on three broad commercial technology areas: software, infrastructure and materials sciences.
+Former CIA director [[George Tenet]] said,
+the parallel data-mining effort by the [[United States Special Operations Command|SOCOM]]-[[Defense Intelligence Agency|DIA]] operation [[Able Danger]]], and to adapt the technology that online booksellers use and convert it to scour millions of pages of documents looking for unexpected results.[11]
+In-Q-Tel sold 5,636 shares of [[Google]], worth over US$2.2 million, on November 15, 2005.[12] The share transfer was a result of Google's acquisition of [[Keyhole, Inc]], the CIA-funded satellite mapping software now known as [[Google Earth]].[13]
+As of 2016, In-Q-Tel listed 325 investments, but more than 100 were secret, according to the [[Washington Post]].[9]
+The corporation is bound by its Charter agreement and annual contract with the [[Central Intelligence Agency|CIA]], which set out the relationship between the two organizations.
+In-Q-Tel's mission (to support the Intelligence Community's technical needs) is promoted by the In-Q-Tel Interface Center (QIC), an office within the CIA that facilitates communication and relationships between In-Q-Tel and government intelligence organizations.[16] While In-Q-Tel is a nonprofit corporation, it differs from [[IARPA]] and other models in that its employees and trustees can profit from its investments.
+A [[Wall Street Journal]] investigation found that in 2016, nearly half of In-Q-Tel's trustees had a financial connection with a company the corporation had funded.[9]
+Augustine]], [[John Seely Brown]], [[Stephen Friedman]], [[Paul G.
+Kaminski]], [[Jeong H.
+Kim]], [[Alex J.
+Mandl]], [[John N.
+McMahon]], and [[William J.
+In-Q-Tel functions partially in public; however, what products it has and how they are used is strictly secret.[20] According to [[The Washington Post]], "virtually any U.S. entrepreneur, inventor or research scientist working on ways to analyze data has probably received a phone call from In-Q-Tel or at least been Googled by its staff of technology-watchers."[20]

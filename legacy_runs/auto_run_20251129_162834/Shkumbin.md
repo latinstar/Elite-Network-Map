@@ -1,0 +1,16 @@
+The Shkumbin (/ʃkuːmbiːn/; Albanian pronunciation: [ʃkumbin]) is a [[River]] in [[Albania]].
+It is 181.4 km (112.7 mi) long and its [[Drainage basin]] is 2,444 km2 (944 sq mi).
+It derives from [[Latin]] Scampinus (recorded alternatively as Scampis), which replaced the [[Illyrian language]] name of the river: Genusus (recorded in [[Latin language]]: Genusus, also Genessus,[5] and in [[Ancient Greek language]]: Γενούσος).
+A [[Slavic languages]] intermediation has been rejected.
+Its inclusion in Latin loanwords into [[Proto-Albanian]] and phonetic evolution coincides with the historical existence of a large Roman town (near present-day [[Elbasan]]), which gave the river its new name.[6][7]
+The river originates in the eastern [[Valamara]] Mountains between Maja e Valamarës (2,375 m (7,792 ft)) and Gur i Topit (2,120 m (6,960 ft)) in Southeastern Albania.[8] After descending from the Valamaras, it flows northwards through [[Proptisht]] and [[Qukës]] with many deep gorges and canyons and passes the Gora Mountains.
+A significant inflow comes from Gur i Kamjës (1,481 m (4,859 ft)) southwest of [[Pogradec]].
+Over the course, it flows inside a [[Syncline]] between the Mokra and [[Shebenik]] Mountains in the east and the Polis Mountains in the west.
+Close to [[Librazhd]] the river turns some 50 km (31 mi) westwards of its origin and joins the Rapun stream.[9] At the end, the river crosses the [[Myzeqe]] Plain and forms a small delta in [[Karavasta Lagoon]], the direct proximity of the [[Adriatic Sea]].
+The ancient name of the river was Genusus and was located in central southern [[Illyria]].
+At the same time, it was referred as Scampini, as it was identified by the town of [[Elbasan]].
+The [[Parthini]] lived in the middle valley of the river.[10][11][12] They neighbored to the west the [[Taulantii]] who lived in the coastal area including the lower valley of the river, and to the east the [[Dassaretii]] who lived in the region of [[Lake Ohrid]], including the upper valley of the river.[12][13] The ancient [[Via Egnatia]] followed the river, giving it the role of a strategically important corridor between [[Orient]] and occident.[14] The Via Egnatia started with two branches, the northern one from [[Epidamnos]], and the southern one from [[Apollonia (Illyria)]].
+The two branches converged at [[Ad Quintum]], near modern [[Elbasan]], continuing eastwards through the valley of the Shkumbin.[15]
+In [[Roman Empire]] times, the line of division between the administrative provinces of [[Illyricum (Roman province)]] and [[Epirus Nova]] ran from the west somewhere between [[Scodra]] and [[Dyrrachium]], to the east somewhere between the north side of the Shkumbin and [[Lake Ohrid]].[16] During this period, the valley of Shkumbin constituted roughly the border between the [[Latin]] and the [[Greek language]]-speaking area.[17]
+The river is roughly the geographical dividing line between [[Tosk Albanian]] and [[Gheg Albanian]] dialects, with Gheg spoken north of the Shkumbin and Tosk south of it.
+The dialectal split occurred after [[Christianisation]] of the region (4th century AD),[18][19] with the river as the historic dialectal boundary[20] which straddled the [[Jireček line]].[21][22]
