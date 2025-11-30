@@ -1,1 +1,0 @@
-Offshoot of [[NSO Group]]

@@ -1,7 +1,0 @@
-The United States Senate Committee on the Judiciary, informally known as the Senate Judiciary Committee, is a standing committee of 22 U.S. senators[1] whose role is to oversee the [[United States Department of Justice|Department of Justice]] (DOJ), consider executive and judicial nominations, and review pending legislation.[2][3]
-The committee considers presidential nominations for positions in the DOJ, including the attorney general and the [[Director of the FBI|director of the FBI]], the [[Office of National Drug Control Policy]], the [[State Justice Institute]], and certain positions in the [[Department of Commerce]] and DHS.
-It is also in charge of holding hearings and investigating judicial nominations to the [[Supreme Court of the United States|Supreme Court]], the [[U.S. court of appeals]], the [[U.S. district court|U.S. district courts]], and the [[Court of International Trade]].[2]
-The Judiciary Committee's oversight of the DOJ includes all of the agencies under the DOJ's jurisdiction, such as the [[FBI]].
-It also has oversight of the [[Department of Homeland Security]] (DHS).
-In January 2018, the Democratic minority had their number of seats increase from 9 to 10 upon the election of [[Doug Jones]] (D-AL), changing the 52–48 Republican majority to 51–49.
-On January 2, 2018, [[Al Franken]], who had been a member of the committee, resigned from the Senate following accusations of sexual misconduct.

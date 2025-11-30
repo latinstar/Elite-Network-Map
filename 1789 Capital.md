@@ -1,1 +1,0 @@
-First investment was $15 million to [[Tucker Carlson]]

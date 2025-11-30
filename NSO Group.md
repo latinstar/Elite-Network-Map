@@ -1,3 +1,0 @@
-Secret Israeli cyber weapons dealer founded by [[Omri Lavie]] and [[Shalev Hulio]], rumored to have worked for Unit 8200.
-
-NSO Group opened up a new arm called [[WestBridge Technologies]](https://egov.maryland.gov/BusinessExpress/EntitySearch/BusinessInformation/F17169087), in the D.C. region. (The company was originally registered in Delaware in 2014, but formed in Maryland in April 2016.) Led by NSO Group co-founder Lavie, WestBridge is vying for federal government contracts for NSO Group’s products.
